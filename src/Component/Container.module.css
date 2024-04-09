@@ -1,0 +1,13 @@
+.container{
+   
+   border:1px solid F7F8F9;
+   width: 30%;
+   height:80vh;
+   border-radius: 10px;
+   margin:20px auto;
+   min-width:300px;
+   padding: 5px;
+   box-shadow: 20px black;
+   background-color:#d1dde8;
+   
+} 
